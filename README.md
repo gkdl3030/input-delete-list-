@@ -14,6 +14,9 @@
 
 ![image](https://user-images.githubusercontent.com/80745282/172592011-02bcf10d-2bd9-4c13-ba53-9737d6ec5f54.png)
 
+![image](https://user-images.githubusercontent.com/80745282/172592905-7145cbad-cee3-4540-be3d-93fa6f3ab3ae.png)
+
+
 # db 데이터 
 
 1. 삭제 전 
