@@ -14,3 +14,10 @@
 
 ![image](https://user-images.githubusercontent.com/80745282/172592011-02bcf10d-2bd9-4c13-ba53-9737d6ec5f54.png)
 
+# db 데이터 
+
+1. 삭제 전 
+2. ![image](https://user-images.githubusercontent.com/80745282/172592511-40892aef-ef98-4ea2-931f-d6385e3cc69e.png)
+
+3. 삭제 후 
+4. ![image](https://user-images.githubusercontent.com/80745282/172592619-e9b15777-ffac-426f-8acb-3b847965bd9d.png)
